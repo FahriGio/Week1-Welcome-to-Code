@@ -7,7 +7,7 @@
 // Saat kamu mendapatkan tiap huruf, untuk membentuk setiap kata kamu tinggal menggunakan simbol + untuk membentuk kata
 //  tersebut!
 
-let word = 'wow JavaScript is so cool';
+let word3 = 'wow JavaScript is so cool';
 let exampleFirstWord = word[0] + word[1] + word[2];
 let SecondWord = word[4] + word[5] + word[6] + word[7] + word[8] + word[9] + word[10] + word[11] + word[12] + word[13];
 let ThirdWord = word[15] + word[16];
@@ -19,5 +19,3 @@ console.log('Second Word: ' + SecondWord);
 console.log('Third Word: ' + ThirdWord);
 console.log('Fourth Word: ' + FourthWord);
 console.log('Fifth Word: ' + FifthWord);
-
-//lanjutkan dengan struktur log diatas
