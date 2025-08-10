@@ -8,26 +8,17 @@ for (let i = 0; i <= 100; i+=2){
      if (i % 3 === 0) {
         console.log( i + " " + "merupakan kelipatan 3");
      }
-    else { 
-        console.log(i)
-    }
 }   
 
 for (let j = 0; j <= 100; j+=5){
      if (j % 6 === 0) {
         console.log( j + " " + "merupakan kelipatan 6");
      }
-    else { 
-        console.log(j)
-    }
 }   
 
 for (let k = 0; k <= 100; k+=9){
      if (k % 10 === 0) {
         console.log( k + " " + "merupakan kelipatan 10");
      }
-    else { 
-        console.log(k)
-    }
 }   
 
